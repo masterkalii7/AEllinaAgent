@@ -48,7 +48,7 @@ winget install Cloudflare.cloudflared
 
 ## 🚀 Getting Started
 
-1.  **Install**: Download and run `AEllinaAgentSetup.exe` from the [Releases](https://github.com/masterkalii7/AEllina-Agent/releases) page.
+1.  **Install**: Download and run `AEllinaAgentSetup.exe` from the [Releases)(https://github.com/masterkalii7/AEllinaAgent/releases/tag/v1.0.0) page.
 2.  **Open Workspace**: Click "Open Folder" in the AEllina UI to set the root directory for your AI agent.
 3.  **Local Use**: Simply restart **Claude Desktop**. AEllina automatically injects the tools.
 4.  **Remote Use (Perplexity/Web)**:

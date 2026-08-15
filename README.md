@@ -2,11 +2,14 @@
 
 **AEllina Agent** is a premium, all-in-one Windows desktop environment designed to empower AI Agents (Claude, Perplexity, etc.) with local system capabilities. It’s not just a connector; it’s a full-fledged **Command Center** for your AI agents, featuring a high-performance UI, secure tunneling, and stateful terminal sessions.
 ---
-### 🎥 Watch the Demo
+### 🎥 Demo Video
+<a href="https://youtu.be/-KGKwF6Td6g">
+  <img src="https://img.youtube.com/vi/-KGKwF6Td6g/mqdefault.jpg" width="320" alt="Watch the demo"/>
+</a>
 
-See AEllina Agent in action — full walkthrough of setup, tunneling, and AI-driven control:
+**[▶ Watch on YouTube](https://youtu.be/-KGKwF6Td6g)** — Full walkthrough (in Hindi) covering setup, tunneling aur AI agent ka live usage.
 
-[![Watch the demo](https://img.youtube.com/vi/-KGKwF6Td6g/maxresdefault.jpg)](https://youtu.be/-KGKwF6Td6g)
+*🗣️ Video language: Hindi*
 
 ---
 

@@ -1,7 +1,12 @@
 # 🚀 AEllina Agent: The Ultimate Universal MCP Gateway
 
 **AEllina Agent** is a premium, all-in-one Windows desktop environment designed to empower AI Agents (Claude, Perplexity, etc.) with local system capabilities. It’s not just a connector; it’s a full-fledged **Command Center** for your AI agents, featuring a high-performance UI, secure tunneling, and stateful terminal sessions.
+---
+### 🎥 Watch the Demo
 
+See AEllina Agent in action — full walkthrough of setup, tunneling, and AI-driven control:
+
+[![Watch the demo](https://img.youtube.com/vi/-KGKwF6Td6g/maxresdefault.jpg)](https://youtu.be/-KGKwF6Td6g)
 
 ---
 
